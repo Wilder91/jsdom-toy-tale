@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Mike Wilder",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.target.com%2Fp%2Ffisher-price-laugh-38-learn-countin-39-reps-dumbbell-toy%2F-%2FA-79405906&psig=AOvVaw3dg9kFMvfZLqldO-x4il1J&ust=1643253341191000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCLjrue-5zvUCFQAAAAAdAAAAABAE",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Mike Wilder",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.target.com%2Fp%2Ffisher-price-laugh-38-learn-countin-39-reps-dumbbell-toy%2F-%2FA-79405906&psig=AOvVaw3dg9kFMvfZLqldO-x4il1J&ust=1643253341191000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCLjrue-5zvUCFQAAAAAdAAAAABAE",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
